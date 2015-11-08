@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShopDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ShopDBModelStoreContainer">
+    <EntitySet Name="ShopDB" EntityType="ShopDBModel.Store.ShopDB" store:Type="Tables" store:Schema="dbo" store:Name="ShopDB">
+      <DefiningQuery>SELECT 
+      [ShopDB].[ID] AS [ID], 
+      [ShopDB].[productName] AS [productName], 
+      [ShopDB].[itemsInStock] AS [itemsInStock], 
+      [ShopDB].[Price] AS [Price]
+      FROM [dbo].[ShopDB] AS [ShopDB]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'ShopDB.dbo.ShopDB' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="ShopDB">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="productName" />
+      <PropertyRef Name="itemsInStock" />
+      <PropertyRef Name="Price" />
+    </Key>
+    <Property Name="ID" Type="decimal" Nullable="false" />
+    <Property Name="productName" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="itemsInStock" Type="float" Nullable="false" />
+    <Property Name="Price" Type="money" Nullable="false" />
+  </EntityType>
+</Schema>

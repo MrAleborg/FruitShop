@@ -1,0 +1,16 @@
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\bin\Debug\myNETShop.dll.config
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\bin\Debug\myNETShop.dll
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\bin\Debug\myNETShop.pdb
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\bin\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\bin\Debug\myCart.pdb
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\obj\Debug\myNETShop.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\obj\Debug\myNETShop.dll
+C:\Users\Alexandre\Desktop\Backup1\myNETShop\obj\Debug\myNETShop.pdb
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\bin\Debug\myNETShop.dll.config
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\bin\Debug\myNETShop.dll
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\bin\Debug\myNETShop.pdb
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\bin\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\bin\Debug\myCart.pdb
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\obj\Debug\myNETShop.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\obj\Debug\myNETShop.dll
+C:\Users\Alexandre\Desktop\FruitShop\myNETShop\obj\Debug\myNETShop.pdb

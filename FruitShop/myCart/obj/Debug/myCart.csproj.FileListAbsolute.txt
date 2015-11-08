@@ -1,0 +1,8 @@
+C:\Users\Alexandre\Desktop\Backup1\myCart\bin\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\Backup1\myCart\bin\Debug\myCart.pdb
+C:\Users\Alexandre\Desktop\Backup1\myCart\obj\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\Backup1\myCart\obj\Debug\myCart.pdb
+C:\Users\Alexandre\Desktop\FruitShop\myCart\bin\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\FruitShop\myCart\bin\Debug\myCart.pdb
+C:\Users\Alexandre\Desktop\FruitShop\myCart\obj\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\FruitShop\myCart\obj\Debug\myCart.pdb

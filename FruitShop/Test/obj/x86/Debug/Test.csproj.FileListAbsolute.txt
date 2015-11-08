@@ -1,0 +1,10 @@
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\Test.exe.config
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\Test.exe
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\Test.pdb
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\myCart.dll
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\myNETShop.dll
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\myCart.pdb
+C:\Users\Alexandre\Desktop\FruitShop\Test\bin\Debug\myNETShop.pdb
+C:\Users\Alexandre\Desktop\FruitShop\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\FruitShop\Test\obj\x86\Debug\Test.exe
+C:\Users\Alexandre\Desktop\FruitShop\Test\obj\x86\Debug\Test.pdb
